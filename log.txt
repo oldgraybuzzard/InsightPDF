@@ -1,0 +1,672 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 13:46:43] "[31m[1mGET /classify_and_rename?file=C:\\Users\\kfelder\\Desktop\\CHRA HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 13:47:52] "[31m[1mGET /classify_and_rename?file=\\Desktop\\CHRA HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 13:48:37] "[31m[1mGET /classify_and_rename?file=Desktop\\CHRA HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\request.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\request.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\request.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\request.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 13:50:53] "[31m[1mGET /classify_and_rename?file=Desktop\\CHRA HTTP/1.1[0m" 405 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 13:51:09] "[31m[1mGET /classify_and_rename?file=Desktop\\CHRA HTTP/1.1[0m" 405 -
+ERROR:root:An error occurred: name 'os' is not defined
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 13:54:40] "[35m[1mPOST /classify_and_rename HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 14:05:44] "[31m[1mGET /classify_and_rename?file=Desktop\\CHRA HTTP/1.1[0m" 405 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 14:13:33] "[31m[1mGET /classify_and_rename?file=Desktop\\CHRA HTTP/1.1[0m" 405 -
+ERROR:root:An error occurred: name 'os' is not defined
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 14:14:13] "[35m[1mPOST /classify_and_rename HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 14:14:33] "[31m[1mGET /classify_and_rename?file=Desktop\\CHRA HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 14:14:58] "[31m[1mGET /classify_and_rename?file=C:\\Users\\kfelder\\Desktop\\CHRA HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 14:15:04] "[31m[1mGET /classify_and_rename?file=\\Users\\kfelder\\Desktop\\CHRA HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 14:15:13] "[31m[1mGET /classify_and_rename?file=Users\\kfelder\\Desktop\\CHRA HTTP/1.1[0m" 405 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\make_request.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 14:21:56] "[31m[1mGET /classify_and_rename?file=Users\\kfelder\\Desktop\\CHRA HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 14:23:22] "[31m[1mGET /classify_and_rename?file=C:\\Users\\kfelder\\Desktop\\CHRA\\https___taxapps.floridarevenue.com_OnlineBillPayment_PaymentConfirmation HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 14:23:32] "[31m[1mGET /classify_and_rename?file=C:\\Users\\kfelder\\Desktop\\CHRA\\https___taxapps.floridarevenue.com_OnlineBillPayment_PaymentConfirmation HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 14:23:42] "[31m[1mGET /classify_and_rename HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 14:26:25] "[31m[1mGET /classify_and_rename?file=C:\\Users\\kfelder\\Desktop\\CHRA\\https___taxapps.floridarevenue.com_OnlineBillPayment_PaymentConfirmation HTTP/1.1[0m" 405 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 14:29:00] "[31m[1mGET /classify_and_rename?file=C:\\Users\\kfelder\\Desktop\\CHRA\\https___taxapps.floridarevenue.com_OnlineBillPayment_PaymentConfirmation HTTP/1.1[0m" 405 -
+ERROR:root:An error occurred: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 14:29:40] "[35m[1mPOST /classify_and_rename HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+ERROR:root:An error occurred: reader.getNumPages is deprecated and was removed in PyPDF2 3.0.0. Use len(reader.pages) instead.
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 14:36:01] "[35m[1mPOST /classify_and_rename HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 14:36:38] "[31m[1mGET /classify_and_rename?file=C:\\Users\\kfelder\\Desktop\\CHRA\\https___taxapps.floridarevenue.com_OnlineBillPayment_PaymentConfirmation HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 14:36:40] "[31m[1mGET /classify_and_rename?file=C:\\Users\\kfelder\\Desktop\\CHRA\\https___taxapps.floridarevenue.com_OnlineBillPayment_PaymentConfirmation HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\logic.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\logic.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\logic.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 14:40:21] "[31m[1mGET /classify_and_rename?file=C:\\Users\\kfelder\\Desktop\\CHRA\\https___taxapps.floridarevenue.com_OnlineBillPayment_PaymentConfirmation HTTP/1.1[0m" 405 -
+ERROR:root:An error occurred: '_VirtualList' object is not callable
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 14:40:33] "[35m[1mPOST /classify_and_rename HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 14:52:11] "[31m[1mGET /classify_and_rename?file=C:\\Users\\kfelder\\Desktop\\CHRA\\https___taxapps.floridarevenue.com_OnlineBillPayment_PaymentConfirmation HTTP/1.1[0m" 405 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 14:53:21] "[31m[1mGET /classify_and_rename?file=C:\\Users\\kfelder\\Desktop\\CHRA\\https___taxapps.floridarevenue.com_OnlineBillPayment_PaymentConfirmation HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 14:54:06] "[31m[1mGET /classify_and_rename?file=C:\\Users\\kfelder\\Desktop\\CHRA\\https___taxapps.floridarevenue.com_OnlineBillPayment_PaymentConfirmation HTTP/1.1[0m" 405 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 14:56:04] "[31m[1mGET /classify_and_rename?file=C:\\Users\\kfelder\\Desktop\\CHRA\\https___taxapps.floridarevenue.com_OnlineBillPayment_PaymentConfirmation HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 14:58:14] "[31m[1mPOST /classify_and_rename?file=C:\\Users\\kfelder\\Desktop\\CHRA\\https___taxapps.floridarevenue.com_OnlineBillPayment_PaymentConfirmation HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:root:Request files keys: dict_keys([])
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 15:01:04] "[31m[1mPOST /classify_and_rename?file=C:\\Users\\kfelder\\Desktop\\CHRA\\https___taxapps.floridarevenue.com_OnlineBillPayment_PaymentConfirmation HTTP/1.1[0m" 400 -
+INFO:root:Request files keys: dict_keys([])
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 15:01:22] "[31m[1mPOST /classify_and_rename?file=C:\\Users\\kfelder\\Desktop\\CHRA\\https___taxapps.floridarevenue.com_OnlineBillPayment_PaymentConfirmation.pdf HTTP/1.1[0m" 400 -
+INFO:root:Request files keys: dict_keys([])
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 15:01:55] "[31m[1mPOST /classify_and_rename?file=Users\\kfelder\\Desktop\\CHRA\\https___taxapps.floridarevenue.com_OnlineBillPayment_PaymentConfirmation.pdf HTTP/1.1[0m" 400 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:root:Request files keys: dict_keys([])
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 15:02:37] "[31m[1mPOST /classify_and_rename?file=Users\\kfelder\\Desktop\\CHRA\\https___taxapps.floridarevenue.com_OnlineBillPayment_PaymentConfirmation.pdf HTTP/1.1[0m" 400 -
+INFO:root:Request files keys: dict_keys([])
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 15:02:43] "[31m[1mPOST /classify_and_rename?file=Users\\kfelder\\Desktop\\CHRA\\https___taxapps.floridarevenue.com_OnlineBillPayment_PaymentConfirmation.pdf HTTP/1.1[0m" 400 -
+INFO:root:Request files keys: dict_keys(['file'])
+ERROR:root:An unexpected error occurred: [WinError 32] The process cannot access the file because it is being used by another process: '/Users/kfelder/Desktop/CHRA\\https___taxapps.floridarevenue.com_OnlineBillPayment_PaymentConfirmation.pdf' -> '/Users/kfelder/Desktop/CHRA\\unknown_9f064c81127745298be626863ae9b929.pdf'
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 15:03:56] "[35m[1mPOST /classify_and_rename HTTP/1.1[0m" 500 -
+INFO:root:Request files keys: dict_keys(['file'])
+ERROR:root:An unexpected error occurred: [WinError 32] The process cannot access the file because it is being used by another process: '/Users/kfelder/Desktop/CHRA\\https___taxapps.floridarevenue.com_OnlineBillPayment_PaymentConfirmation.pdf' -> '/Users/kfelder/Desktop/CHRA\\unknown_031241475c8a47c9875dfa052c6f23e3.pdf'
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 15:10:39] "[35m[1mPOST /classify_and_rename HTTP/1.1[0m" 500 -
+INFO:root:Request files keys: dict_keys([])
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 15:10:45] "[31m[1mPOST /classify_and_rename?file=Users\\kfelder\\Desktop\\CHRA\\https___taxapps.floridarevenue.com_OnlineBillPayment_PaymentConfirmation.pdf HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\logic.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:root:Request files keys: dict_keys([])
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 15:18:55] "[31m[1mPOST /classify_and_rename?file=Users\\kfelder\\Desktop\\CHRA\\https___taxapps.floridarevenue.com_OnlineBillPayment_PaymentConfirmation.pdf HTTP/1.1[0m" 400 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:root:Request files keys: dict_keys([])
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 15:26:06] "[31m[1mPOST /classify_and_rename?file=Users\\kfelder\\Desktop\\CHRA\\https___taxapps.floridarevenue.com_OnlineBillPayment_PaymentConfirmation.pdf HTTP/1.1[0m" 400 -
+INFO:root:Request files keys: dict_keys(['file'])
+ERROR:root:An unexpected error occurred: 'PdfReader' object has no attribute 'close'
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 15:26:14] "[35m[1mPOST /classify_and_rename HTTP/1.1[0m" 500 -
+INFO:root:Request files keys: dict_keys(['file'])
+ERROR:root:An unexpected error occurred: 'PdfReader' object has no attribute 'close'
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 15:26:21] "[35m[1mPOST /classify_and_rename HTTP/1.1[0m" 500 -
+INFO:root:Request files keys: dict_keys([])
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 15:27:51] "[31m[1mPOST /classify_and_rename HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\make_request.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\make_request.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\make_request.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\make_request.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\make_request.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\make_request.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\logic.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:root:Request files keys: dict_keys([])
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 15:31:31] "[31m[1mPOST /classify_and_rename?file=Users\\kfelder\\Desktop\\CHRA\\https___taxapps.floridarevenue.com_OnlineBillPayment_PaymentConfirmation.pdf HTTP/1.1[0m" 400 -
+INFO:root:Request files keys: dict_keys(['file'])
+ERROR:root:An unexpected error occurred: [WinError 32] The process cannot access the file because it is being used by another process: '/Users/kfelder/Desktop/CHRA\\https___taxapps.floridarevenue.com_OnlineBillPayment_PaymentConfirmation.pdf' -> '/Users/kfelder/Desktop/CHRA\\unknown_f6f8bd50f875429b80cc894d6dd2ec40.pdf'
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 15:33:08] "[35m[1mPOST /classify_and_rename HTTP/1.1[0m" 500 -
+INFO:root:Request files keys: dict_keys(['file'])
+ERROR:root:An unexpected error occurred: [WinError 32] The process cannot access the file because it is being used by another process: '/Users/kfelder/Desktop/CHRA\\https___taxapps.floridarevenue.com_OnlineBillPayment_PaymentConfirmation.pdf' -> '/Users/kfelder/Desktop/CHRA\\unknown_d997b95f077c43529f6c2ac61c0dd3cd.pdf'
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 15:33:17] "[35m[1mPOST /classify_and_rename HTTP/1.1[0m" 500 -
+INFO:root:Request files keys: dict_keys(['file'])
+INFO:root:File Invoice2111.pdf renamed to unknown_9799dda6349641fa8979b539fb139543.pdf
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 15:33:29] "POST /classify_and_rename HTTP/1.1" 200 -
+INFO:root:Request files keys: dict_keys(['file'])
+INFO:root:File AEF690-70G.pdf renamed to SF50_0e5f8397d1804c259e835e564b072e6e.pdf
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 15:34:04] "POST /classify_and_rename HTTP/1.1" 200 -
+INFO:root:Request files keys: dict_keys(['file'])
+INFO:root:File SF-52_LN_RPA_Redacted.pdf renamed to unknown_7dc2452879bc4b7cb08a71996de40d70.pdf
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 15:35:33] "POST /classify_and_rename HTTP/1.1" 200 -
+INFO:root:Request files keys: dict_keys(['file'])
+INFO:root:File SF-52_LN_RPA_Redacted.pdf renamed to SF52_d047e5793e794e52b880ef5841740585.pdf
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 15:37:12] "POST /classify_and_rename HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:root:Request files keys: dict_keys(['file'])
+INFO:root:File SF-52_LN_RPA_Redacted.pdf renamed to SF52_.pdf
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 15:41:31] "POST /classify_and_rename HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\logic.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\logic.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\logic.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\logic.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\logic.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:root:Request files keys: dict_keys(['file'])
+INFO:root:File SF-52_LN_RPA_Redacted.pdf renamed to unknown_.pdf
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 15:43:00] "POST /classify_and_rename HTTP/1.1" 200 -
+INFO:root:Request files keys: dict_keys(['file'])
+ERROR:root:An unexpected error occurred: [WinError 183] Cannot create a file when that file already exists: '/Users/kfelder/Desktop/CHRA\\SF-52_LN_RPA_Redacted.pdf' -> '/Users/kfelder/Desktop/CHRA\\unknown_.pdf'
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 15:43:37] "[35m[1mPOST /classify_and_rename HTTP/1.1[0m" 500 -
+INFO:root:Request files keys: dict_keys(['file'])
+ERROR:root:An unexpected error occurred: [WinError 183] Cannot create a file when that file already exists: '/Users/kfelder/Desktop/CHRA\\SF-52_LN_RPA_Redacted.pdf' -> '/Users/kfelder/Desktop/CHRA\\unknown_.pdf'
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 15:46:02] "[35m[1mPOST /classify_and_rename HTTP/1.1[0m" 500 -
+INFO:root:Request files keys: dict_keys(['file'])
+INFO:root:File AEF690-70G.pdf renamed to SF50_.pdf
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 15:46:23] "POST /classify_and_rename HTTP/1.1" 200 -
+INFO:root:Request files keys: dict_keys(['file'])
+ERROR:root:An unexpected error occurred: [WinError 183] Cannot create a file when that file already exists: '/Users/kfelder/Desktop/CHRA\\SF-52_LN_RPA_Redacted.pdf' -> '/Users/kfelder/Desktop/CHRA\\unknown_.pdf'
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 15:46:46] "[35m[1mPOST /classify_and_rename HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\logic.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:root:Request files keys: dict_keys(['file'])
+ERROR:root:An unexpected error occurred: [WinError 183] Cannot create a file when that file already exists: '/Users/kfelder/Desktop/CHRA\\SF-52_LN_RPA_Redacted.pdf' -> '/Users/kfelder/Desktop/CHRA\\unknown_.pdf'
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 15:52:09] "[35m[1mPOST /classify_and_rename HTTP/1.1[0m" 500 -
+INFO:root:Request files keys: dict_keys(['file'])
+ERROR:root:An unexpected error occurred: [WinError 183] Cannot create a file when that file already exists: '/Users/kfelder/Desktop/CHRA\\SF-52_LN_RPA_Redacted.pdf' -> '/Users/kfelder/Desktop/CHRA\\SF52_.pdf'
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 15:52:30] "[35m[1mPOST /classify_and_rename HTTP/1.1[0m" 500 -
+INFO:root:Request files keys: dict_keys(['file'])
+ERROR:root:An unexpected error occurred: [WinError 183] Cannot create a file when that file already exists: '/Users/kfelder/Desktop/CHRA\\SF-52_LN_RPA_Redacted.pdf' -> '/Users/kfelder/Desktop/CHRA\\SF52_.pdf'
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 15:52:38] "[35m[1mPOST /classify_and_rename HTTP/1.1[0m" 500 -
+INFO:root:Request files keys: dict_keys(['file'])
+INFO:root:File SF-52_LN_RPA_Redacted.pdf renamed to SF52_.pdf
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 15:53:33] "POST /classify_and_rename HTTP/1.1" 200 -
+INFO:root:Request files keys: dict_keys([])
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 15:55:57] "[31m[1mPOST /classify_and_rename?file=C:\\Users\\kfelder\\Downloads\\SF-52%20LN%20RPA_Redacted.pdf HTTP/1.1[0m" 400 -
+INFO:root:Request files keys: dict_keys([])
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 15:57:03] "[31m[1mPOST /classify_and_rename HTTP/1.1[0m" 400 -
+INFO:root:Request files keys: dict_keys([''])
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 16:06:42] "[31m[1mPOST /classify_and_rename HTTP/1.1[0m" 400 -
+INFO:root:Request files keys: dict_keys(['file'])
+INFO:root:File SF-52_LN_RPA_Redacted.pdf renamed to SF52_.pdf
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 16:06:58] "POST /classify_and_rename HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\logic.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:root:Request files keys: dict_keys(['file'])
+INFO:root:File SF-52_LN_RPA_Redacted.pdf renamed to SF52_.pdf
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 16:15:47] "POST /classify_and_rename HTTP/1.1" 200 -
+INFO:root:Request files keys: dict_keys(['file'])
+ERROR:root:An unexpected error occurred: [WinError 183] Cannot create a file when that file already exists: '/Users/kfelder/Desktop/CHRA\\SF-52_LN_RPA_Redacted.pdf' -> '/Users/kfelder/Desktop/CHRA\\CHRA_SF52_.pdf'
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 16:15:57] "[35m[1mPOST /classify_and_rename HTTP/1.1[0m" 500 -
+INFO:root:Request files keys: dict_keys(['file'])
+INFO:root:File SF-52_LN_RPA_Redacted.pdf renamed to SF52_.pdf
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 16:16:16] "POST /classify_and_rename HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\logic.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:root:Request files keys: dict_keys(['file'])
+ERROR:root:An error occurred: name 'file' is not defined
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 16:22:26] "[35m[1mPOST /classify_and_rename HTTP/1.1[0m" 500 -
+INFO:root:Request files keys: dict_keys(['file'])
+ERROR:root:An error occurred: name 'file' is not defined
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 16:22:41] "[35m[1mPOST /classify_and_rename HTTP/1.1[0m" 500 -
+INFO:root:Request files keys: dict_keys(['file'])
+ERROR:root:An error occurred: name 'file' is not defined
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 16:22:54] "[35m[1mPOST /classify_and_rename HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\logic.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\make_request.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:root:Request files keys: dict_keys(['file'])
+ERROR:root:An unexpected error occurred: extractText is deprecated and was removed in PyPDF2 3.0.0. Use extract_text instead.
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 16:29:11] "[35m[1mPOST /classify_and_rename HTTP/1.1[0m" 500 -
+INFO:root:Request files keys: dict_keys(['file'])
+ERROR:root:An unexpected error occurred: extractText is deprecated and was removed in PyPDF2 3.0.0. Use extract_text instead.
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 16:29:30] "[35m[1mPOST /classify_and_rename HTTP/1.1[0m" 500 -
+INFO:root:Request files keys: dict_keys(['file'])
+ERROR:root:An unexpected error occurred: extractText is deprecated and was removed in PyPDF2 3.0.0. Use extract_text instead.
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 16:29:52] "[35m[1mPOST /classify_and_rename HTTP/1.1[0m" 500 -
+INFO:root:Request files keys: dict_keys(['file'])
+ERROR:root:An unexpected error occurred: extractText is deprecated and was removed in PyPDF2 3.0.0. Use extract_text instead.
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 16:31:04] "[35m[1mPOST /classify_and_rename HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\logic.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:root:Request files keys: dict_keys(['file'])
+INFO:root:File SF-52_LN_RPA_Redacted.pdf renamed to SF52.pdf
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 16:33:57] "POST /classify_and_rename HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\logic.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\logic.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:root:Request files keys: dict_keys(['file'])
+INFO:root:File SF-52_LN_RPA_Redacted.pdf renamed to SF52.pdf
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 16:38:04] "POST /classify_and_rename HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:root:Request files keys: dict_keys(['file'])
+INFO:root:File SF-52_LN_RPA_Redacted.pdf renamed to fakepath_SF52.pdf
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 16:38:41] "POST /classify_and_rename HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\logic.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:root:Request files keys: dict_keys(['file'])
+INFO:root:File SF-52_LN_RPA_Redacted.pdf renamed to SF52.pdf
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 16:42:23] "POST /classify_and_rename HTTP/1.1" 200 -
+INFO:root:Request files keys: dict_keys(['file'])
+INFO:root:File SF-52_LN_RPA_Redacted.pdf renamed to fakepath_SF52.pdf
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 16:42:40] "POST /classify_and_rename HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 16:43:20] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 16:46:54] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 16:51:09] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:root:Request files keys: dict_keys(['file'])
+INFO:root:File SF-52_LN_RPA_Redacted.pdf renamed to fakepath-SF52.pdf
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 16:51:25] "POST /classify_and_rename HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\document_analyzer.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\document_analyzer.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:root:Request files keys: dict_keys(['file'])
+ERROR:root:Error in analyze_and_rename_document: name 'extract_text_from_pdf' is not defined
+INFO:root:File SF-52_LN_RPA_Redacted.pdf renamed to None
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 17:40:48] "POST /classify_and_rename HTTP/1.1" 200 -
+INFO:root:Request files keys: dict_keys(['file'])
+ERROR:root:Error in analyze_and_rename_document: name 'extract_text_from_pdf' is not defined
+INFO:root:File SF-52_LN_RPA_Redacted.pdf renamed to None
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 17:41:14] "POST /classify_and_rename HTTP/1.1" 200 -
+INFO:root:Request files keys: dict_keys(['file'])
+ERROR:root:Error in analyze_and_rename_document: name 'extract_text_from_pdf' is not defined
+INFO:root:File SF-52_LN_RPA_Redacted.pdf renamed to None
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 17:41:17] "POST /classify_and_rename HTTP/1.1" 200 -
+INFO:root:Request files keys: dict_keys(['file'])
+ERROR:root:Error in analyze_and_rename_document: name 'extract_text_from_pdf' is not defined
+INFO:root:File SF-52_LN_RPA_Redacted.pdf renamed to None
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 17:41:34] "POST /classify_and_rename HTTP/1.1" 200 -
+INFO:root:Request files keys: dict_keys(['file'])
+ERROR:root:Error in analyze_and_rename_document: name 'extract_text_from_pdf' is not defined
+INFO:root:File SF-52_LN_RPA_Redacted.pdf renamed to None
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 17:41:39] "POST /classify_and_rename HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\document_analyzer.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\document_analyzer.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 18:08:08] "[33mPOST / HTTP/1.1[0m" 404 -
+INFO:root:Request files keys: dict_keys(['file'])
+ERROR:root:Error in analyze_and_rename_document: name 'extract_text_from_pdf' is not defined
+INFO:root:File SF-52_LN_RPA_Redacted.pdf renamed to None
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 18:08:25] "POST /classify_and_rename HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\logic.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\logic.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\logic.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\logic.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\logic.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\document_analyzer.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\document_analyzer.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\document_analyzer.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\document_analyzer.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\document_analyzer.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\document_analyzer.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\document_analyzer.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\date_extractor.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\date_extractor.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\date_extractor.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\date_extractor.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\test_logic.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\test_logic.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+INFO:werkzeug: * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\CHRA\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-616-318
+ERROR:root:Error in analyze_and_rename_document: name 'extract_text_from_pdf' is not defined
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 18:21:43] "[35m[1mPOST /classify_and_rename HTTP/1.1[0m" 500 -
+ERROR:root:Error in analyze_and_rename_document: name 'extract_text_from_pdf' is not defined
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2023 18:22:07] "[35m[1mPOST /classify_and_rename HTTP/1.1[0m" 500 -
