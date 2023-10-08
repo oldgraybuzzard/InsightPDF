@@ -23,6 +23,7 @@ rules = {
 
 @app.task
 def analyze_and_rename_document_task(file_path):
+    logging.info(f"Analyzing and renaming document: {file_path}")
     try:
         extracted_text = extract_text_from_pdf(file_path)
         document_type = classify_document(extracted_text)

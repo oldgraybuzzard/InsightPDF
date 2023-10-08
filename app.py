@@ -3,6 +3,7 @@ from werkzeug.utils import secure_filename
 from my_celery import analyze_and_rename_document_task
 import os
 import logging
+import traceback
 
 app = Flask(__name__)
 
@@ -34,18 +35,24 @@ def upload_file():
             try:
                 file.save(file_path)
             except Exception as e:
-                logging.error(f"Failed to save the file: {str(e)}")
+                logging.error(f"Failed to save the file: {str(e)}\n{traceback.format_exc()}")
                 return jsonify(error="Failed to save the file"), 500
             
             logging.info("File saved, calling Celery task...")
-            analyze_and_rename_document_task.delay(file_path)
-            logging.info("Celery task called.")
-            return jsonify(status="File is being processed"), 202
+            task = analyze_and_rename_document_task.delay(file_path)
+            logging.info(f"Celery task called with ID: {task.id}")
+
+            # Check the task status
+            task_status = task.status
+            logging.info(f"Task status: {task_status}")
+            
+            return jsonify(status="File is being processed", task_id=task.id), 202
         else:
             logging.warning("Invalid file type attempted to upload.")
             return jsonify(error="Invalid file type"), 400
 
     return render_template('upload.html')
+
 
 if __name__ == "__main__":
     app.run(debug=True, port=55000)
