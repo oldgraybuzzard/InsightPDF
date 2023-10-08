@@ -1,15 +1,19 @@
 import os
-import PyPDF2
+from pypdf import PdfReader
 import shutil
 import logging
+import re
+import traceback
 
 # Ensure the logs directory exists
 log_dir = 'logs'
+log_file = 'logic.log'
+
 if not os.path.exists(log_dir):
     os.makedirs(log_dir)
 
 # Logging setup
-logging.basicConfig(filename=os.path.join(log_dir, 'logic.log'), 
+logging.basicConfig(filename=os.path.join(log_dir, log_file), 
                     level=logging.INFO, 
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
@@ -30,12 +34,29 @@ def extract_text_from_pdf(file_path):
     text = ""
     try:
         with open(file_path, 'rb') as file:
-            reader = PyPDF2.PdfReader(file)
-            for page_num in range(len(reader.pages)):
-                text += reader.pages[page_num].extract_text()
-    except Exception as e:
-        print(f"Error extracting text from {file_path}: {str(e)}")
+            reader = PdfReader(file)
+            number_of_pages = len(reader.pages)
+            page = reader.pages[0]
+            text = page.extract_text()
+    except FileNotFoundError:
+        logging.error(f"File not found: {file_path}")
+    except SomeOtherError:
+        logging.error(f"Some other error occurred with file: {file_path}")
     return text
+
+    logging.info(f"Text extracted successfully from {file_path}.")
+
+
+def extract_date(text):
+    """
+    Extracts date in the format YYYY-MM-DD from the provided text.
+
+    :param text: str, the input text
+    :return: str, the extracted date or None if not found
+    """
+    date_pattern = r"\b(\d{4}-\d{2}-\d{2})\b"
+    matches = re.findall(date_pattern, text)
+    return matches[0] if matches else None
 
 def classify_document(text):
     """
@@ -84,13 +105,19 @@ def rename_and_move_document(original_path, new_name, target_folder):
         # Ensure the filename is unique
         unique_new_path = get_unique_filename(new_file_path)
 
+        # Copy and verify the file copy was successful before deleting
         shutil.copy2(original_path, unique_new_path)
-        os.remove(original_path)
+        if os.path.exists(unique_new_path) and os.path.isfile(original_path):
+            os.remove(original_path)
+        else:
+            logging.error(f"Failed to copy {original_path} to {unique_new_path}. Original file not deleted.")
+            return original_path  # Return the original path if copy fails
 
         return unique_new_path
 
     except Exception as e:
-        print(f"Error renaming/moving {original_path}: {str(e)}")
+        logging.error(f"Error renaming/moving {original_path}: {str(e)}")
         return original_path  # If an error occurs, return the original path
+
 
 # Additional logic for extracting date and other processes...

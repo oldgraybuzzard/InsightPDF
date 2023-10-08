@@ -1,6 +1,6 @@
 import os
 import shutil
-import PyPDF2
+from pypdf import PdfReader
 import logging
 
 # Ensure the logs directory exists
@@ -30,9 +30,10 @@ def extract_text_from_pdf(file_path):
     text = []
     try:
         with open(file_path, 'rb') as file:
-            reader = PyPDF2.PdfReader(file)
-            for page in reader.pages:
-                text.append(page.extract_text())
+            reader = PdfReader(file)
+            number_of_pages = len(reader.pages)
+            page = reader.pages[0]
+            text = page.extract_text()
         return "".join(text)
     except Exception as e:
         print(f"Error extracting text from {file_path}: {e}")
@@ -45,6 +46,10 @@ def classify_document(text):
     :param text: str, text to classify
     :return: str, document type or 'unknown' if no match is found
     """
+    if text is None:
+        logging.error("Attempted to classify None text.")
+        return 'unknown'
+    
     for doc_type, keywords in rules.items():
         if any(keyword.lower() in text.lower() for keyword in keywords):
             return doc_type

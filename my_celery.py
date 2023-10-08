@@ -1,6 +1,6 @@
 from celery import Celery
 import shutil
-import PyPDF2
+from pypdf import PdfReader
 import os
 import logging
 
@@ -34,9 +34,10 @@ def analyze_and_rename_document_task(file_path):
 def extract_text_from_pdf(file_path):
     text = ""
     with open(file_path, 'rb') as file:
-        reader = PyPDF2.PdfReader(file)
-        for page_num in range(len(reader.pages)):
-            text += reader.pages[page_num].extract_text()
+        reader = PdfReader(file)
+        number_of_pages = len(reader.pages)
+        page = reader.pages[0]
+        text = page.extract_text()
     return text
 
 def classify_document(text):

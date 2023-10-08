@@ -6,6 +6,6 @@
 - celery
 - logging
 - watchdog
-- PyPDF2
+- pypdf
 - shutil
 - requests

@@ -4,3 +4,999 @@
 2023-10-08 12:04:05,200 - INFO -  * Restarting with watchdog (windowsapi)
 2023-10-08 12:04:05,568 - WARNING -  * Debugger is active!
 2023-10-08 12:04:05,574 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:06:37,978 - INFO - 127.0.0.1 - - [08/Oct/2023 12:06:37] "[33mPOST /classify_and_rename HTTP/1.1[0m" 404 -
+2023-10-08 12:07:24,892 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:07:25,327 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:07:25,743 - WARNING -  * Debugger is active!
+2023-10-08 12:07:25,745 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:13:53,554 - INFO -  * Detected change in 'C:\\Users\\kfelder\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\mock.py', reloading
+2023-10-08 12:13:54,194 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:13:54,581 - WARNING -  * Debugger is active!
+2023-10-08 12:13:54,583 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:15:56,356 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:15:56,358 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:15:56,361 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:15:56,760 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:15:57,077 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:15:57,447 - WARNING -  * Debugger is active!
+2023-10-08 12:15:57,449 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:15:57,490 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:15:57,490 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:15:57,492 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:15:58,513 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:15:58,859 - WARNING -  * Debugger is active!
+2023-10-08 12:15:58,861 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:16:02,780 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:16:02,780 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:16:02,785 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:16:02,928 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:16:03,278 - WARNING -  * Debugger is active!
+2023-10-08 12:16:03,280 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:16:33,049 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:16:33,050 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:16:33,052 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:16:33,480 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:16:33,864 - WARNING -  * Debugger is active!
+2023-10-08 12:16:33,866 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:17:23,337 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:17:23,339 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:17:23,339 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:17:24,074 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:17:24,436 - WARNING -  * Debugger is active!
+2023-10-08 12:17:24,438 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:23:10,763 - INFO -  * Detected change in 'C:\\Users\\kfelder\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\__init__.py', reloading
+2023-10-08 12:23:11,780 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:23:12,144 - WARNING -  * Debugger is active!
+2023-10-08 12:23:12,146 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:23:12,273 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:23:12,276 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:23:12,277 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:23:12,789 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:23:13,201 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:23:13,574 - WARNING -  * Debugger is active!
+2023-10-08 12:23:13,576 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:23:15,278 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:23:15,279 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:23:15,279 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:23:15,633 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:23:15,994 - WARNING -  * Debugger is active!
+2023-10-08 12:23:15,996 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:23:29,226 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:23:29,227 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:23:29,229 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:23:29,230 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:23:30,091 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:23:30,463 - WARNING -  * Debugger is active!
+2023-10-08 12:23:30,465 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:23:35,136 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\myenv\\Lib\\site-packages\\werkzeug\\datastructures\\file_storage.py', reloading
+2023-10-08 12:23:35,558 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:23:35,944 - WARNING -  * Debugger is active!
+2023-10-08 12:23:35,947 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:23:44,532 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:23:44,533 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:23:44,537 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:23:45,060 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:23:45,426 - WARNING -  * Debugger is active!
+2023-10-08 12:23:45,429 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:23:55,775 - INFO -  * Detected change in 'C:\\Users\\kfelder\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\abc.py', reloading
+2023-10-08 12:23:56,526 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:23:56,885 - WARNING -  * Debugger is active!
+2023-10-08 12:23:56,887 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:23:57,030 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:23:57,031 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:23:57,032 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:23:57,032 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:23:57,946 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:23:58,297 - WARNING -  * Debugger is active!
+2023-10-08 12:23:58,299 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:24:50,765 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\myenv\\Lib\\site-packages\\flask\\testing.py', reloading
+2023-10-08 12:24:50,786 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\myenv\\Lib\\site-packages\\werkzeug\\test.py', reloading
+2023-10-08 12:24:51,545 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:24:51,915 - WARNING -  * Debugger is active!
+2023-10-08 12:24:51,917 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:24:59,913 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:24:59,913 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:24:59,915 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:24:59,916 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:25:00,006 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:25:00,373 - WARNING -  * Debugger is active!
+2023-10-08 12:25:00,375 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:26:04,372 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:26:04,373 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:26:04,376 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:26:04,653 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:26:05,034 - WARNING -  * Debugger is active!
+2023-10-08 12:26:05,036 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:26:08,265 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:26:08,267 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:26:08,267 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:26:08,268 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:26:09,107 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:26:09,466 - WARNING -  * Debugger is active!
+2023-10-08 12:26:09,468 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:26:14,296 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:26:14,296 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:26:14,296 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:26:14,297 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:26:14,359 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:26:14,535 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:26:14,893 - WARNING -  * Debugger is active!
+2023-10-08 12:26:14,895 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:26:17,525 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:26:17,526 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:26:17,528 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:26:17,528 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:26:17,972 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:26:18,354 - WARNING -  * Debugger is active!
+2023-10-08 12:26:18,356 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:26:18,703 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:26:18,703 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:26:18,704 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:26:18,705 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:26:19,420 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:26:19,772 - WARNING -  * Debugger is active!
+2023-10-08 12:26:19,774 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:26:20,063 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:26:20,067 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:26:20,067 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:26:20,068 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:26:20,824 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:26:21,168 - WARNING -  * Debugger is active!
+2023-10-08 12:26:21,170 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:26:32,979 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:26:32,979 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:26:32,982 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:26:33,269 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:26:33,617 - WARNING -  * Debugger is active!
+2023-10-08 12:26:33,619 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:26:37,698 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:26:37,698 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:26:37,701 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:26:37,701 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:26:38,687 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:26:39,040 - WARNING -  * Debugger is active!
+2023-10-08 12:26:39,042 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:26:43,706 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:26:43,707 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:26:43,712 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:26:44,111 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:26:44,462 - WARNING -  * Debugger is active!
+2023-10-08 12:26:44,464 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:28:33,617 - INFO -  * Detected change in 'C:\\Users\\kfelder\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\case.py', reloading
+2023-10-08 12:28:33,938 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:28:34,298 - WARNING -  * Debugger is active!
+2023-10-08 12:28:34,300 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:28:38,183 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:28:38,184 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:28:38,186 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:28:38,186 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:28:38,367 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:28:38,718 - WARNING -  * Debugger is active!
+2023-10-08 12:28:38,720 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:28:49,795 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:28:49,797 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:28:49,799 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:28:49,800 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:28:50,830 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:28:51,193 - WARNING -  * Debugger is active!
+2023-10-08 12:28:51,195 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:29:17,992 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:29:17,993 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:29:17,994 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:29:17,995 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:29:18,351 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:29:18,734 - WARNING -  * Debugger is active!
+2023-10-08 12:29:18,736 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:29:19,167 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:29:19,168 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:29:19,171 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:29:19,171 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:29:19,795 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:29:20,146 - WARNING -  * Debugger is active!
+2023-10-08 12:29:20,148 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:29:30,453 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:29:30,456 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:29:30,457 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:29:30,457 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:29:31,237 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:29:31,591 - WARNING -  * Debugger is active!
+2023-10-08 12:29:31,593 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:29:35,875 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:29:35,876 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:29:35,879 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:29:36,665 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:29:37,002 - WARNING -  * Debugger is active!
+2023-10-08 12:29:37,004 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:30:07,791 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:30:07,794 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:30:07,795 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:30:07,795 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:30:08,170 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:30:08,550 - WARNING -  * Debugger is active!
+2023-10-08 12:30:08,552 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:30:09,974 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:30:09,974 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:30:09,975 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:30:09,975 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:30:10,621 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:30:10,966 - WARNING -  * Debugger is active!
+2023-10-08 12:30:10,968 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:30:12,896 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:30:12,900 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:30:12,900 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:30:12,901 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:30:13,034 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:30:13,384 - WARNING -  * Debugger is active!
+2023-10-08 12:30:13,386 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:30:18,765 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:30:18,766 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:30:18,771 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:30:19,461 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:30:19,807 - WARNING -  * Debugger is active!
+2023-10-08 12:30:19,809 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:30:55,842 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:30:55,844 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:30:55,847 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:30:55,991 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:30:56,347 - WARNING -  * Debugger is active!
+2023-10-08 12:30:56,349 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:31:26,786 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:31:26,787 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:31:26,789 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:31:26,790 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:31:27,506 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:31:27,873 - WARNING -  * Debugger is active!
+2023-10-08 12:31:27,874 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:31:39,839 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:31:39,840 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:31:39,840 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:31:39,976 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:31:40,335 - WARNING -  * Debugger is active!
+2023-10-08 12:31:40,337 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:33:58,534 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:33:58,535 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:33:58,538 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:33:58,839 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:33:59,216 - WARNING -  * Debugger is active!
+2023-10-08 12:33:59,218 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:34:35,770 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:34:35,773 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:34:35,774 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:34:35,775 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:34:36,412 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:34:36,763 - WARNING -  * Debugger is active!
+2023-10-08 12:34:36,765 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:34:37,518 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:34:37,519 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:34:37,521 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:34:37,522 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:34:37,832 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:34:38,214 - WARNING -  * Debugger is active!
+2023-10-08 12:34:38,217 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:34:39,866 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:34:39,866 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:34:39,866 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:34:39,867 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:34:40,281 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:34:40,639 - WARNING -  * Debugger is active!
+2023-10-08 12:34:40,641 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:35:36,911 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:35:36,911 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:35:36,914 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:35:36,914 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:35:37,889 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:35:38,253 - WARNING -  * Debugger is active!
+2023-10-08 12:35:38,255 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:35:41,967 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:35:41,967 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:35:41,972 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:35:42,326 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:35:42,667 - WARNING -  * Debugger is active!
+2023-10-08 12:35:42,670 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:35:56,363 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:35:56,364 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:35:56,365 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:35:56,365 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:35:56,769 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:35:57,119 - WARNING -  * Debugger is active!
+2023-10-08 12:35:57,121 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:36:07,175 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:36:07,175 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:36:07,180 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:36:08,239 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:36:08,603 - WARNING -  * Debugger is active!
+2023-10-08 12:36:08,605 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:38:32,537 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:38:32,537 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:38:32,540 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:38:33,165 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:38:33,513 - WARNING -  * Debugger is active!
+2023-10-08 12:38:33,515 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:39:08,491 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:39:08,492 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:39:08,494 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:39:08,494 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:39:08,678 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:39:09,045 - WARNING -  * Debugger is active!
+2023-10-08 12:39:09,048 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:39:14,585 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:39:14,588 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:39:14,590 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:39:14,590 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:39:15,119 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:39:15,468 - WARNING -  * Debugger is active!
+2023-10-08 12:39:15,470 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:39:20,040 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:39:20,042 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:39:20,043 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:39:20,043 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:39:20,541 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:39:20,888 - WARNING -  * Debugger is active!
+2023-10-08 12:39:20,890 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:39:22,538 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:39:22,538 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:39:22,539 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:39:22,539 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:39:22,955 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:39:23,321 - WARNING -  * Debugger is active!
+2023-10-08 12:39:23,323 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:39:28,830 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:39:28,831 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:39:28,833 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:39:28,834 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:39:29,393 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:39:29,725 - WARNING -  * Debugger is active!
+2023-10-08 12:39:29,727 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:39:40,852 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:39:40,853 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:39:40,857 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:39:41,821 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:39:42,183 - WARNING -  * Debugger is active!
+2023-10-08 12:39:42,185 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:39:45,254 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:39:45,254 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:39:45,256 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:39:46,255 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:39:46,617 - WARNING -  * Debugger is active!
+2023-10-08 12:39:46,619 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:40:07,911 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:40:07,912 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:40:07,915 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:40:07,916 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:40:08,756 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:40:09,095 - WARNING -  * Debugger is active!
+2023-10-08 12:40:09,097 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:40:16,192 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:40:16,193 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:40:16,198 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:40:17,185 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:40:17,536 - WARNING -  * Debugger is active!
+2023-10-08 12:40:17,539 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:40:19,983 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:40:19,986 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:40:19,986 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:40:20,599 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:40:20,939 - WARNING -  * Debugger is active!
+2023-10-08 12:40:20,941 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:40:21,970 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:40:21,971 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:40:21,973 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:40:23,004 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:40:23,349 - WARNING -  * Debugger is active!
+2023-10-08 12:40:23,351 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:40:24,187 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:40:24,188 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:40:24,192 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:40:24,412 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:40:24,832 - WARNING -  * Debugger is active!
+2023-10-08 12:40:24,834 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:40:25,995 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:40:25,996 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:40:25,997 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:40:25,998 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:40:26,896 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:40:27,246 - WARNING -  * Debugger is active!
+2023-10-08 12:40:27,248 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:40:28,635 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:40:28,638 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:40:28,638 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:40:28,639 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:40:29,300 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:40:29,646 - WARNING -  * Debugger is active!
+2023-10-08 12:40:29,648 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:40:32,145 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:40:32,149 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:40:32,150 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:40:32,151 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:40:32,710 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:40:33,056 - WARNING -  * Debugger is active!
+2023-10-08 12:40:33,058 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:41:10,075 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:41:10,077 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:41:10,078 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:41:10,079 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:41:10,251 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:41:10,594 - WARNING -  * Debugger is active!
+2023-10-08 12:41:10,597 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:42:56,813 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:42:56,813 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:42:56,815 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:42:56,816 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:42:57,078 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:42:57,435 - WARNING -  * Debugger is active!
+2023-10-08 12:42:57,437 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:44:02,863 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:44:02,863 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:44:02,870 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:44:03,734 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:44:04,109 - WARNING -  * Debugger is active!
+2023-10-08 12:44:04,111 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:44:04,526 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:44:04,526 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:44:04,528 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:44:04,529 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:44:05,166 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:44:05,514 - WARNING -  * Debugger is active!
+2023-10-08 12:44:05,516 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:44:34,851 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:44:34,851 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:44:34,854 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:44:34,855 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:44:35,666 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:44:36,040 - WARNING -  * Debugger is active!
+2023-10-08 12:44:36,042 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:45:00,646 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\myenv\\Lib\\site-packages\\requests\\__init__.py', reloading
+2023-10-08 12:45:01,197 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:45:01,573 - WARNING -  * Debugger is active!
+2023-10-08 12:45:01,575 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:45:07,139 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:45:07,141 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:45:07,148 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:45:07,648 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:45:07,996 - WARNING -  * Debugger is active!
+2023-10-08 12:45:07,998 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:48:37,474 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:48:37,476 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:48:37,477 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:48:37,478 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:48:37,893 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:48:38,248 - WARNING -  * Debugger is active!
+2023-10-08 12:48:38,250 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:48:58,192 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:48:58,196 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:48:58,197 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:48:58,197 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:48:58,395 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:48:58,767 - WARNING -  * Debugger is active!
+2023-10-08 12:48:58,770 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:49:52,553 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:49:52,555 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:49:52,555 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:49:53,008 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:49:53,376 - WARNING -  * Debugger is active!
+2023-10-08 12:49:53,378 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:51:14,569 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:51:14,570 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:51:14,572 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:51:14,682 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:51:15,035 - WARNING -  * Debugger is active!
+2023-10-08 12:51:15,037 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:52:08,426 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:52:08,429 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:52:08,431 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:52:09,284 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:52:09,641 - WARNING -  * Debugger is active!
+2023-10-08 12:52:09,643 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:52:09,778 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:52:09,780 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:52:09,781 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:52:10,754 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:52:11,111 - WARNING -  * Debugger is active!
+2023-10-08 12:52:11,113 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:52:11,763 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:52:11,763 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:52:11,766 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:52:12,179 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:52:12,552 - WARNING -  * Debugger is active!
+2023-10-08 12:52:12,554 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:52:16,236 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:52:16,237 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:52:16,238 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:52:16,239 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:52:16,625 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:52:16,984 - WARNING -  * Debugger is active!
+2023-10-08 12:52:16,986 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:52:19,108 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:52:19,110 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:52:19,111 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:52:20,051 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:52:20,399 - WARNING -  * Debugger is active!
+2023-10-08 12:52:20,401 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:52:31,622 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:52:31,624 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:52:31,625 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:52:31,625 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:52:32,497 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:52:32,864 - WARNING -  * Debugger is active!
+2023-10-08 12:52:32,867 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:52:43,199 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:52:43,200 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:52:43,202 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:52:43,202 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:52:43,963 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:52:44,315 - WARNING -  * Debugger is active!
+2023-10-08 12:52:44,317 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:52:46,370 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:52:46,370 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:52:46,372 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:52:46,372 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:52:47,393 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:52:47,799 - WARNING -  * Debugger is active!
+2023-10-08 12:52:47,801 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:53:00,607 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:53:00,608 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:53:00,611 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:53:00,919 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:53:01,274 - WARNING -  * Debugger is active!
+2023-10-08 12:53:01,276 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:53:12,867 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:53:12,870 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:53:12,871 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:53:13,364 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:53:13,705 - WARNING -  * Debugger is active!
+2023-10-08 12:53:13,707 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:53:21,441 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:53:21,442 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:53:21,446 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:53:21,795 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:53:22,146 - WARNING -  * Debugger is active!
+2023-10-08 12:53:22,148 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:53:26,729 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:53:26,732 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:53:26,733 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:53:26,733 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:53:27,219 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:53:27,554 - WARNING -  * Debugger is active!
+2023-10-08 12:53:27,556 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:53:34,287 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:53:34,287 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:53:34,288 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:53:34,637 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:53:34,992 - WARNING -  * Debugger is active!
+2023-10-08 12:53:34,994 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:54:21,076 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:54:21,077 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:54:21,082 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:54:21,216 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:54:21,611 - WARNING -  * Debugger is active!
+2023-10-08 12:54:21,614 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:54:23,633 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:54:23,633 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:54:23,635 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:54:23,635 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:54:24,700 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:54:25,071 - WARNING -  * Debugger is active!
+2023-10-08 12:54:25,073 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:54:25,401 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:54:25,405 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:54:25,406 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:54:25,406 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:54:26,132 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:54:26,477 - WARNING -  * Debugger is active!
+2023-10-08 12:54:26,479 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:54:37,726 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:54:37,727 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:54:37,731 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:54:38,586 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:54:38,956 - WARNING -  * Debugger is active!
+2023-10-08 12:54:38,958 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:54:40,000 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:54:40,001 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:54:40,005 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:54:41,023 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:54:41,391 - WARNING -  * Debugger is active!
+2023-10-08 12:54:41,393 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:54:58,332 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:54:58,336 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:54:58,337 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:54:58,338 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:54:58,514 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:54:58,865 - WARNING -  * Debugger is active!
+2023-10-08 12:54:58,867 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:55:00,728 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:55:00,729 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:55:00,730 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:55:00,730 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:55:00,925 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:55:01,306 - WARNING -  * Debugger is active!
+2023-10-08 12:55:01,308 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:55:02,133 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:55:02,135 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:55:02,136 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:55:02,136 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:55:02,367 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:55:02,713 - WARNING -  * Debugger is active!
+2023-10-08 12:55:02,715 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:55:03,979 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:55:03,979 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:55:03,980 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:55:03,981 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:55:04,772 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:55:05,125 - WARNING -  * Debugger is active!
+2023-10-08 12:55:05,127 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:55:47,983 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:55:47,986 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:55:47,987 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:55:48,350 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:55:48,689 - WARNING -  * Debugger is active!
+2023-10-08 12:55:48,691 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:55:50,636 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:55:50,638 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:55:50,639 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:55:50,639 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:55:50,750 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:55:51,111 - WARNING -  * Debugger is active!
+2023-10-08 12:55:51,113 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:55:52,779 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:55:52,780 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:55:52,784 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:55:53,175 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:55:53,525 - WARNING -  * Debugger is active!
+2023-10-08 12:55:53,526 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:55:56,358 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:55:56,358 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:55:56,361 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:55:56,606 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:55:56,985 - WARNING -  * Debugger is active!
+2023-10-08 12:55:56,988 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:56:05,940 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:56:05,941 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:56:05,946 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:56:05,947 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:56:06,068 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:56:06,414 - WARNING -  * Debugger is active!
+2023-10-08 12:56:06,416 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:56:10,600 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:56:10,601 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:56:10,606 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:56:11,487 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:56:11,836 - WARNING -  * Debugger is active!
+2023-10-08 12:56:11,838 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:56:27,372 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:56:27,373 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:56:27,375 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:56:27,375 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:56:27,939 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:56:28,289 - WARNING -  * Debugger is active!
+2023-10-08 12:56:28,291 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:56:29,933 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:56:29,935 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:56:30,353 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:56:30,711 - WARNING -  * Debugger is active!
+2023-10-08 12:56:30,713 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:57:37,937 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:57:37,938 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:57:37,939 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:57:38,018 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:57:38,365 - WARNING -  * Debugger is active!
+2023-10-08 12:57:38,367 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:57:45,145 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:57:45,146 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:57:45,151 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:57:45,448 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:57:45,815 - WARNING -  * Debugger is active!
+2023-10-08 12:57:45,817 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:57:46,402 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:57:46,403 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:57:46,405 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:57:46,407 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:57:46,880 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:57:47,244 - WARNING -  * Debugger is active!
+2023-10-08 12:57:47,246 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:57:54,813 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:57:54,815 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:57:54,816 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:57:54,816 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:57:55,327 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:57:55,690 - WARNING -  * Debugger is active!
+2023-10-08 12:57:55,692 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:57:56,004 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:57:56,005 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:57:56,006 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:57:56,009 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:57:56,758 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:57:57,125 - WARNING -  * Debugger is active!
+2023-10-08 12:57:57,128 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:59:09,370 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:59:09,373 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:59:09,374 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:59:10,437 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:59:10,800 - WARNING -  * Debugger is active!
+2023-10-08 12:59:10,802 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:59:11,254 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:59:11,254 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:59:11,257 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:59:11,871 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:59:12,267 - WARNING -  * Debugger is active!
+2023-10-08 12:59:12,269 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 12:59:26,704 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:59:26,704 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:59:26,707 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 12:59:27,386 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 12:59:27,775 - WARNING -  * Debugger is active!
+2023-10-08 12:59:27,777 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:01:58,050 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:01:58,051 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:01:58,054 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:01:58,055 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:01:58,354 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:01:58,727 - WARNING -  * Debugger is active!
+2023-10-08 13:01:58,730 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:03:06,037 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:03:06,039 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:03:06,041 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:03:06,041 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:03:07,020 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:03:07,373 - WARNING -  * Debugger is active!
+2023-10-08 13:03:07,376 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:03:09,101 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:03:09,102 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:03:09,102 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:03:09,106 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:03:09,438 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:03:09,797 - WARNING -  * Debugger is active!
+2023-10-08 13:03:09,799 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:04:56,841 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:04:56,842 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:04:56,843 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:04:57,227 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:04:57,624 - WARNING -  * Debugger is active!
+2023-10-08 13:04:57,626 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:06:15,879 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:06:15,880 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:06:15,881 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:06:15,936 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:06:16,297 - WARNING -  * Debugger is active!
+2023-10-08 13:06:16,299 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:06:17,179 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:06:17,180 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:06:17,182 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:06:17,374 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:06:17,750 - WARNING -  * Debugger is active!
+2023-10-08 13:06:17,752 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:06:32,173 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:06:32,177 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:06:32,178 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:06:32,178 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:06:32,866 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:06:33,244 - WARNING -  * Debugger is active!
+2023-10-08 13:06:33,246 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:06:42,290 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:06:42,292 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:06:42,293 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:06:42,295 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:06:43,332 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:06:43,701 - WARNING -  * Debugger is active!
+2023-10-08 13:06:43,703 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:06:44,856 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:06:44,857 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:06:44,861 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:06:45,774 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:06:46,155 - WARNING -  * Debugger is active!
+2023-10-08 13:06:46,158 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:06:55,149 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:06:55,149 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:06:55,153 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:06:55,240 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:06:55,576 - WARNING -  * Debugger is active!
+2023-10-08 13:06:55,578 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:07:02,455 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:07:02,456 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:07:02,459 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:07:02,654 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:07:03,008 - WARNING -  * Debugger is active!
+2023-10-08 13:07:03,011 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:07:27,814 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\make_request.py', reloading
+2023-10-08 13:07:28,161 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:07:28,554 - WARNING -  * Debugger is active!
+2023-10-08 13:07:28,557 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:08:09,062 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:08:09,757 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:08:10,155 - WARNING -  * Debugger is active!
+2023-10-08 13:08:10,157 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:08:16,672 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\watcher.py', reloading
+2023-10-08 13:08:16,834 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\watcher.py', reloading
+2023-10-08 13:08:17,252 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:08:17,636 - WARNING -  * Debugger is active!
+2023-10-08 13:08:17,638 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:08:54,630 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:08:54,631 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:08:54,632 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:08:54,633 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:08:54,823 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:08:55,172 - WARNING -  * Debugger is active!
+2023-10-08 13:08:55,174 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:08:55,844 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:08:55,845 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:08:55,846 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:08:55,847 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:08:56,237 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:08:56,608 - WARNING -  * Debugger is active!
+2023-10-08 13:08:56,611 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:10:51,128 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:10:51,128 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:10:51,129 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:10:51,130 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:10:52,074 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:10:52,457 - WARNING -  * Debugger is active!
+2023-10-08 13:10:52,459 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:11:13,517 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:11:13,519 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:11:13,520 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:11:13,520 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:11:13,667 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:11:14,038 - WARNING -  * Debugger is active!
+2023-10-08 13:11:14,040 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:11:27,544 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:11:27,544 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:11:27,547 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:11:28,132 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:11:28,474 - WARNING -  * Debugger is active!
+2023-10-08 13:11:28,476 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:12:16,091 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:12:16,091 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:12:16,093 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:12:16,707 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:12:17,096 - WARNING -  * Debugger is active!
+2023-10-08 13:12:17,098 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:12:17,525 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:12:17,529 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:12:17,529 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:12:17,530 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:12:18,154 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:12:18,493 - WARNING -  * Debugger is active!
+2023-10-08 13:12:18,495 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:12:20,247 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:12:20,247 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:12:20,250 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:12:20,250 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:12:20,561 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:12:20,926 - WARNING -  * Debugger is active!
+2023-10-08 13:12:20,928 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:12:38,219 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:12:38,220 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:12:38,224 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:12:39,042 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:12:39,402 - WARNING -  * Debugger is active!
+2023-10-08 13:12:39,404 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:12:40,242 - INFO -  * Detected change in 'C:\\Users\\kfelder\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tabnanny.py', reloading
+2023-10-08 13:12:40,378 - INFO -  * Detected change in 'C:\\Users\\kfelder\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\telnetlib.py', reloading
+2023-10-08 13:12:40,463 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:12:40,833 - WARNING -  * Debugger is active!
+2023-10-08 13:12:40,835 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:12:42,254 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:12:42,255 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:12:42,261 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\test_logic.py', reloading
+2023-10-08 13:12:42,901 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:12:43,268 - WARNING -  * Debugger is active!
+2023-10-08 13:12:43,271 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:16:03,591 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\myenv\\Lib\\site-packages\\flask\\__init__.py', reloading
+2023-10-08 13:16:03,602 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\myenv\\Lib\\site-packages\\flask\\app.py', reloading
+2023-10-08 13:16:03,638 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\myenv\\Lib\\site-packages\\flask\\sansio\\app.py', reloading
+2023-10-08 13:16:03,649 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\myenv\\Lib\\site-packages\\flask\\sansio\\scaffold.py', reloading
+2023-10-08 13:16:03,694 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\myenv\\Lib\\site-packages\\flask\\templating.py', reloading
+2023-10-08 13:16:03,699 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\myenv\\Lib\\site-packages\\jinja2\\__init__.py', reloading
+2023-10-08 13:16:03,699 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\myenv\\Lib\\site-packages\\jinja2\\environment.py', reloading
+2023-10-08 13:16:03,742 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\myenv\\Lib\\site-packages\\flask\\globals.py', reloading
+2023-10-08 13:16:03,744 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\myenv\\Lib\\site-packages\\flask\\wrappers.py', reloading
+2023-10-08 13:16:03,750 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\myenv\\Lib\\site-packages\\werkzeug\\wrappers\\__init__.py', reloading
+2023-10-08 13:16:03,751 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\myenv\\Lib\\site-packages\\werkzeug\\wrappers\\request.py', reloading
+2023-10-08 13:16:03,765 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\myenv\\Lib\\site-packages\\werkzeug\\sansio\\request.py', reloading
+2023-10-08 13:16:03,769 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\myenv\\Lib\\site-packages\\flask\\json\\__init__.py', reloading
+2023-10-08 13:16:03,771 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\myenv\\Lib\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+2023-10-08 13:16:03,782 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\myenv\\Lib\\site-packages\\werkzeug\\sansio\\response.py', reloading
+2023-10-08 13:16:03,789 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\myenv\\Lib\\site-packages\\werkzeug\\utils.py', reloading
+2023-10-08 13:16:03,839 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\myenv\\Lib\\site-packages\\flask\\config.py', reloading
+2023-10-08 13:16:03,845 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\myenv\\Lib\\site-packages\\flask\\typing.py', reloading
+2023-10-08 13:16:03,846 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\myenv\\Lib\\site-packages\\werkzeug\\datastructures\\__init__.py', reloading
+2023-10-08 13:16:03,877 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\myenv\\Lib\\site-packages\\werkzeug\\_internal.py', reloading
+2023-10-08 13:16:03,926 - INFO -  * Detected change in 'C:\\Users\\kfelder\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\re\\__init__.py', reloading
+2023-10-08 13:16:03,934 - INFO -  * Detected change in 'C:\\Users\\kfelder\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\datetime.py', reloading
+2023-10-08 13:16:04,052 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:16:04,429 - WARNING -  * Debugger is active!
+2023-10-08 13:16:04,431 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:22:39,380 - INFO -  * Detected change in 'C:\\Users\\kfelder\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\random.py', reloading
+2023-10-08 13:22:39,721 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:22:40,119 - WARNING -  * Debugger is active!
+2023-10-08 13:22:40,121 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:22:40,472 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:22:40,473 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:22:40,474 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:22:40,475 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:22:41,176 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:22:41,529 - WARNING -  * Debugger is active!
+2023-10-08 13:22:41,531 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:23:14,455 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:23:14,457 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:23:14,458 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:23:14,703 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:23:15,077 - WARNING -  * Debugger is active!
+2023-10-08 13:23:15,079 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:23:16,404 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:23:16,405 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:23:16,409 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:23:17,147 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:23:17,529 - WARNING -  * Debugger is active!
+2023-10-08 13:23:17,531 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:23:17,825 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:23:17,826 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:23:18,589 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:23:18,953 - WARNING -  * Debugger is active!
+2023-10-08 13:23:18,955 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:24:31,061 - INFO -  * Detected change in 'C:\\Users\\kfelder\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\typing.py', reloading
+2023-10-08 13:24:31,225 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:24:31,582 - WARNING -  * Debugger is active!
+2023-10-08 13:24:31,584 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:24:32,311 - INFO -  * Detected change in 'C:\\Users\\kfelder\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\logging\\__init__.py', reloading
+2023-10-08 13:24:32,649 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:24:33,040 - WARNING -  * Debugger is active!
+2023-10-08 13:24:33,042 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:24:33,183 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:24:33,183 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:24:33,187 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:24:33,187 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:24:34,104 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:24:34,464 - WARNING -  * Debugger is active!
+2023-10-08 13:24:34,466 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:25:49,738 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:25:49,738 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:25:49,740 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:25:49,740 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:25:50,769 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:25:51,121 - WARNING -  * Debugger is active!
+2023-10-08 13:25:51,123 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:33:01,656 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:33:01,658 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:33:01,658 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:33:01,658 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:33:02,422 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:33:02,815 - WARNING -  * Debugger is active!
+2023-10-08 13:33:02,817 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:33:03,107 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:33:03,108 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:33:03,112 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:33:03,879 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:33:04,234 - WARNING -  * Debugger is active!
+2023-10-08 13:33:04,236 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:33:12,629 - INFO -  * Detected change in 'C:\\Users\\kfelder\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\genericpath.py', reloading
+2023-10-08 13:33:13,324 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:33:13,673 - WARNING -  * Debugger is active!
+2023-10-08 13:33:13,676 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:33:15,841 - INFO -  * Detected change in 'C:\\Users\\kfelder\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\os.py', reloading
+2023-10-08 13:33:16,742 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:33:17,089 - WARNING -  * Debugger is active!
+2023-10-08 13:33:17,091 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:33:20,466 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:33:20,467 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:33:20,470 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:33:21,158 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:33:21,519 - WARNING -  * Debugger is active!
+2023-10-08 13:33:21,521 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:33:21,773 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:33:21,773 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:33:21,776 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:33:21,777 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:33:22,573 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:33:22,913 - WARNING -  * Debugger is active!
+2023-10-08 13:33:22,915 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:33:25,194 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:33:25,197 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:33:25,197 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:33:25,198 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:33:25,980 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-08 13:33:26,348 - WARNING -  * Debugger is active!
+2023-10-08 13:33:26,351 - INFO -  * Debugger PIN: 147-616-318
+2023-10-08 13:33:26,675 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:33:26,676 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:33:26,678 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
+2023-10-08 13:33:26,678 - INFO -  * Detected change in 'C:\\Users\\kfelder\\Desktop\\Projects\\automatic-system\\logic.py', reloading
