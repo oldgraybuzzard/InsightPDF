@@ -1,5 +1,6 @@
 import unittest
-from logic import classify_document, extract_text_from_pdf
+from logic import classify_document, extract_text_from_pdf, extract_date  
+# Ensure all functions are imported
 
 class TestDocumentClassification(unittest.TestCase):
     
@@ -16,8 +17,21 @@ class TestDocumentClassification(unittest.TestCase):
         for data in self.test_data:
             with self.subTest(msg=f"Testing with text: {data['text']}"):
                 self.assertEqual(classify_document(data['text']), data['type'])
-                
-    # More test methods can be added to check other functionalities.
-    
+
+    def test_extract_date(self):  # This should be a method in the class
+        test_cases = [
+            ("This is a date: 2022-03-15", "2022-03-15"),
+            ("US format: 03/15/2022", "03/15/2022"),
+            ("European format: 15/03/2022", "15/03/2022"),
+            ("No date here!", None),
+            # Add more test cases to ensure robustness
+        ]
+        
+        for input_text, expected_output in test_cases:
+            with self.subTest(msg=f"Testing with text: {input_text}"):
+                self.assertEqual(extract_date(input_text), expected_output)
+
+# More test methods can be added to check other functionalities.
+
 if __name__ == "__main__":
     unittest.main()

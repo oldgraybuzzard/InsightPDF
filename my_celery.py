@@ -2,6 +2,17 @@ from celery import Celery
 import shutil
 import PyPDF2
 import os
+import logging
+
+# Ensure the logs directory exists
+log_dir = 'logs'
+if not os.path.exists(log_dir):
+    os.makedirs(log_dir)
+
+# Logging setup
+logging.basicConfig(filename=os.path.join(log_dir, 'celery.log'), 
+                    level=logging.INFO, 
+                    format='%(asctime)s - %(levelname)s - %(message)s')
 
 app = Celery('tasks', broker='redis://localhost:6379/0', backend='redis://localhost:6379/0')
 
@@ -18,7 +29,7 @@ def analyze_and_rename_document_task(file_path):
         new_path = rename_document(file_path, document_type)
         return new_path
     except Exception as e:
-        print(f"Error: {str(e)}")
+        logging.error(f"Error processing {file_path}: {str(e)}")
 
 def extract_text_from_pdf(file_path):
     text = ""
