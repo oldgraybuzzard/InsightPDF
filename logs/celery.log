@@ -1274,3 +1274,32 @@ FileNotFoundError: [Errno 2] No such file or directory: '/Users/kfelder/Desktop/
 2023-10-08 21:48:02,017 - INFO - Celery task called with ID: dced0f3a-760e-4a3c-8b9e-487de992e8c2
 2023-10-08 21:48:04,069 - INFO - Task status: PENDING
 2023-10-08 21:48:04,070 - INFO - 127.0.0.1 - - [08/Oct/2023 21:48:04] "[35m[1mPOST /upload HTTP/1.1[0m" 202 -
+2023-10-09 20:47:14,478 - INFO - Saving file to C:\Users\kfelder\Desktop\Projects\automatic-system\uploads\production\SF-52_LN_RPA_Redacted.pdf
+2023-10-09 20:47:14,479 - INFO - File saved, calling Celery task...
+2023-10-09 20:47:20,736 - INFO - Celery task called with ID: b49cab28-b340-424f-91ee-55d38ac18753
+2023-10-09 20:47:22,788 - INFO - Task status: PENDING
+2023-10-09 20:47:22,797 - INFO - Saving file to C:\Users\kfelder\Desktop\Projects\automatic-system\uploads\production\SF-52_LN_RPA_Redacted.pdf
+2023-10-09 20:47:22,798 - INFO - File saved, calling Celery task...
+2023-10-09 20:47:22,800 - INFO - Celery task called with ID: d4b2b84b-ffee-4416-99ea-dc219376c9d5
+2023-10-09 20:47:22,801 - INFO - Task status: PENDING
+2023-10-09 20:48:55,442 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:55000
+2023-10-09 20:48:55,442 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-09 20:48:55,460 - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-09 20:48:55,814 - WARNING -  * Debugger is active!
+2023-10-09 20:48:55,818 - INFO -  * Debugger PIN: 147-616-318
+2023-10-09 20:53:53,663 - INFO - 127.0.0.1 - - [09/Oct/2023 20:53:53] "[33mGET /classify_and_rename HTTP/1.1[0m" 404 -
+2023-10-09 20:53:53,912 - INFO - 127.0.0.1 - - [09/Oct/2023 20:53:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-10-09 20:54:00,173 - INFO - 127.0.0.1 - - [09/Oct/2023 20:54:00] "GET /upload HTTP/1.1" 200 -
+2023-10-09 20:54:06,419 - INFO - Saving file to C:\Users\kfelder\Desktop\Projects\automatic-system\uploads\production\LN_RPA_Redacted.pdf
+2023-10-09 20:54:06,425 - INFO - File saved, calling Celery task...
+2023-10-09 20:54:12,743 - INFO - Celery task called with ID: 2ba91582-5d60-497f-b9ef-83fc93a3ee49
+2023-10-09 20:54:14,775 - INFO - Task status: PENDING
+2023-10-09 20:54:14,776 - INFO - 127.0.0.1 - - [09/Oct/2023 20:54:14] "[35m[1mPOST /upload HTTP/1.1[0m" 202 -
+2023-10-09 20:58:52,217 - INFO - 127.0.0.1 - - [09/Oct/2023 20:58:52] "GET /upload HTTP/1.1" 200 -
+2023-10-09 20:58:53,958 - INFO - Saving file to C:\Users\kfelder\Desktop\Projects\automatic-system\uploads\production\LN_RPA_Redacted.pdf
+2023-10-09 20:58:53,960 - INFO - File saved, calling Celery task...
+2023-10-09 20:58:56,027 - INFO - Celery task called with ID: ca0a243f-2851-44f8-85e8-8fc590ef263f
+2023-10-09 20:58:58,108 - INFO - Task status: PENDING
+2023-10-09 20:58:58,108 - INFO - 127.0.0.1 - - [09/Oct/2023 20:58:58] "[35m[1mPOST /upload HTTP/1.1[0m" 202 -
+2023-10-09 20:59:31,952 - INFO - 127.0.0.1 - - [09/Oct/2023 20:59:31] "GET /upload HTTP/1.1" 200 -
